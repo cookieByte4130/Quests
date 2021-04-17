@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cookieByte4130/Quests.git/static/css/main.673aed21.chunk.css",
+    "main.js": "/cookieByte4130/Quests.git/static/js/main.3266b8e4.chunk.js",
+    "main.js.map": "/cookieByte4130/Quests.git/static/js/main.3266b8e4.chunk.js.map",
+    "runtime-main.js": "/cookieByte4130/Quests.git/static/js/runtime-main.4265c456.js",
+    "runtime-main.js.map": "/cookieByte4130/Quests.git/static/js/runtime-main.4265c456.js.map",
+    "static/js/2.5a696832.chunk.js": "/cookieByte4130/Quests.git/static/js/2.5a696832.chunk.js",
+    "static/js/2.5a696832.chunk.js.map": "/cookieByte4130/Quests.git/static/js/2.5a696832.chunk.js.map",
+    "static/js/3.77c6fc16.chunk.js": "/cookieByte4130/Quests.git/static/js/3.77c6fc16.chunk.js",
+    "static/js/3.77c6fc16.chunk.js.map": "/cookieByte4130/Quests.git/static/js/3.77c6fc16.chunk.js.map",
+    "index.html": "/cookieByte4130/Quests.git/index.html",
+    "static/css/main.673aed21.chunk.css.map": "/cookieByte4130/Quests.git/static/css/main.673aed21.chunk.css.map",
+    "static/js/2.5a696832.chunk.js.LICENSE.txt": "/cookieByte4130/Quests.git/static/js/2.5a696832.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "/cookieByte4130/Quests.git/static/media/bgImg.b0fe9faa.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4265c456.js",
+    "static/js/2.5a696832.chunk.js",
+    "static/css/main.673aed21.chunk.css",
+    "static/js/main.3266b8e4.chunk.js"
+  ]
+}
