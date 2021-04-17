@@ -1,0 +1,15 @@
+.Quest {
+  width: 100%;
+  text-align: left;
+}
+
+.Quest button {
+  margin-right: 1rem;
+  background: none;
+  border: none;
+}
+
+.Quest button:focus {
+  outline: none;
+  text-shadow: 0px 0px 5px #ffeb3b;
+}

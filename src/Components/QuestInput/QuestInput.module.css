@@ -1,0 +1,32 @@
+.QuestInput {
+  border-radius: 5px;
+  overflow: hidden;
+  width: 100%;
+  margin: 2rem 0;
+  display: flex;
+}
+
+.QuestInput input {
+  height: 1.5rem;
+  width: 75%;
+  background-color: #b8e8a6;
+  border: none;
+  padding: 0.5rem;
+}
+
+.QuestInput input:hover,
+.QuestInput input:focus {
+  background-color: #d8ffc9;
+  outline: none;
+}
+
+.QuestInput button {
+  width: 25%;
+  background: #40c140;
+  border: none;
+  outline: none;
+}
+
+.QuestInput button:hover {
+  background: #38a238;
+}
