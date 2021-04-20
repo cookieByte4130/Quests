@@ -31,4 +31,4 @@ Code bard: Amalia Bryant
 
 ## Project status
 
-An active work in progress
+An active work in progress. Currently is a testing ground for learning about testing code.
